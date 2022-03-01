@@ -1,5 +1,6 @@
 {
-	"ip":"hardpro.aternos.me",
-	"port": "25565",
-	"name": "afkbot"
+	"ip":"Bedcore.aternos.me",
+	"port": "52907",
+	"name": "afkbot2"
+	"auto-night-skip":"true"
 }
